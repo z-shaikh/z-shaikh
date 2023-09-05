@@ -1,8 +1,7 @@
-### Hi there 👋
-<a href="https://stackoverflow.com/users/12768925/blu" target="_blank">
-<img alt="StackOverflow"
-src="https://stackoverflow-badge.vercel.app/?userID=10249156" />
-</a>
+
+### Hi there 👋 
+<a href="https://stackoverflow.com/users/12768925/i-am-the-blu"><img src="https://stackoverflow.com/users/flair/12768925.png?theme=dark" width="208" height="58" alt="profile for I Am The Blu at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for I Am The Blu at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 <a href="https://app.daily.dev/zuber"><img src="https://api.daily.dev/devcards/5b784ae1b6c54e6ba89e6b7e54126a0e.png?r=f7q" width="400" alt="Zuber's Dev Card"/></a>
 <!--
 **z-shaikh/z-shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
