@@ -1,6 +1,9 @@
 ### Hi there 👋
-
-<a href="https://app.daily.dev/zuber"><img src="https://api.daily.dev/devcards/5b784ae1b6c54e6ba89e6b7e54126a0e.png?r=bn7" width="400" alt="Zuber's Dev Card"/></a>
+<a href="https://stackoverflow.com/users/12768925/blu" target="_blank">
+<img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=10249156" />
+</a>
+<a href="https://app.daily.dev/zuber"><img src="https://api.daily.dev/devcards/5b784ae1b6c54e6ba89e6b7e54126a0e.png?r=f7q" width="400" alt="Zuber's Dev Card"/></a>
 <!--
 **z-shaikh/z-shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
