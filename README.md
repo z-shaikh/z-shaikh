@@ -5,7 +5,7 @@
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Zuber, I'm a Xamarin.Forms Developer and Consultant from Pune, India. I completed Bachelors Degree at [Pune University](https://zealeducation.com/), and I'm looking to help those that need mobile app development work done, or searching for ideas and management for their next content project.
+Hey there! :smile: My name is Zuber, I'm a Xamarin.Forms Developer and Consultant from Pune, India. I've completed Bachelors Degree at [Pune University](https://zealeducation.com/), and I'm looking to help those that need mobile app development work done, or searching for ideas and management for their next content project.
 
 I would also love to volunteer my time to contributing to open-source projects! I love creating and tinkering with small, static apps and projects.
 
