@@ -1,6 +1,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/-zuber-shaikh/)](https://linkedin.com/in/-zuber-shaikh/)
+[![Pronouns](https://img.shields.io/badge/StackOverflow-%232c3e50?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/12768925/i-am-the-blu)
 [![Pronouns](https://img.shields.io/badge/Pronouns-Blu-brightgreen?style=flat)]()
+
 
 
 ## About Me :wave:
@@ -17,16 +19,19 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 #### Tech:
 
 ![Xamarin](https://img.shields.io/badge/Xamarin-%232c3e50?logo=Xamarin)
-![dotNet](https://img.shields.io/badge/%20%20%20%20C%23-%232c3e50?logo=dotnet)
-![Java](https://img.shields.io/badge/Java-%232c3e50)
-![Android](https://img.shields.io/badge/%20%20%20%20Android-%232c3e50?logo=Android)
-![iOS](https://img.shields.io/badge/%20%20%20%20iOS-%232c3e50?logo=Apple)
+![Xamarin.Forms](https://img.shields.io/badge/Xamarin-Forms-%232c3e50?logo=xamarin)
+![dotNet](https://img.shields.io/badge/dotNet-C%23-%232c3e50?logo=dotnet)
+![Java](https://img.shields.io/badge/Java-Android-%232c3e50?logo=Android)
+![Android](https://img.shields.io/badge/Xamarin-Android-%232c3e50?style=flat&logo=android)
+![iOS](https://img.shields.io/badge/Xamarin-iOS-%232c3e50?logo=Apple)
 
 
 #### Editors and Operating Systems:
 
 ![VS](https://img.shields.io/badge/%20%20%20%20Visual%20Studio-%232c3e50?logo=visualstudio)
 ![VS Code](https://img.shields.io/badge/%20%20%20%20Visual%20Studio%20Code-%232c3e50?logo=visualstudiocode)
+![X-Code](https://img.shields.io/badge/X--Code-%232c3e50?style=flat&logo=xcode)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%232c3e50?style=flat&logo=androidstudio)
 ![Sublime Merge](https://img.shields.io/badge/Sublime%20Merge-%232c3e50?logo=git)
 ![MacOS](https://img.shields.io/badge/%20%20%20%20MacOS-%232c3e50?logo=MacOS)
 ![Windows](https://img.shields.io/badge/Windows-%232c3e50?logo=windows)
