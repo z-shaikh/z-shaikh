@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/-zuber-shaikh/)](https://linkedin.com/in/-zuber-shaikh/)
 [![Pronouns](https://img.shields.io/badge/StackOverflow-%232c3e50?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/12768925/i-am-the-blu)
 [![Pronouns](https://img.shields.io/badge/Pronouns-Blu-brightgreen?style=flat)]()
-
+<img src="https://komarev.com/ghpvc/?username=z-shaikh&style=flat-square&color=blue" alt=""/>
 
 
 ## About Me :wave:
@@ -40,9 +40,12 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 ### Badges  🔖
 
-<a href="https://stackoverflow.com/users/12768925/i-am-the-blu"><img src="https://stackoverflow.com/users/flair/12768925.png?theme=dark" width="208" height="58" alt="profile for I Am The Blu at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for I Am The Blu at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/12768925/i-am-the-blu"><img src="https://stackoverflow.com/users/flair/12768925.png?theme=dark" width="208" height="58" alt="profile for I Am The Blu at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for I Am The Blu at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-shaikh&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=z-shaikh&theme=highcontrast)](https://git.io/streak-stats&theme=highcontrast)
 
 <a href="https://app.daily.dev/ItsBlu"><img src="https://api.daily.dev/devcards/5b784ae1b6c54e6ba89e6b7e54126a0e.png?r=64j" width="400" alt="Zuber's Dev Card"/></a>
+
 <!--
 **z-shaikh/z-shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
