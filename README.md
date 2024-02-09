@@ -39,10 +39,11 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 <hr>
 
 ### Badges  🔖
+<a href="https://stackoverflow.com/users/12768925/i-am-the-blu"><img src="https://stackoverflow.com/users/flair/12768925.png?theme=dark" width="208" height="58" alt="profile for I Am The Blu at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for I Am The Blu at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>      
 
-<a href="https://stackoverflow.com/users/12768925/i-am-the-blu"><img src="https://stackoverflow.com/users/flair/12768925.png?theme=dark" width="208" height="58" alt="profile for I Am The Blu at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for I Am The Blu at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-shaikh&layout=donut&theme=highcontrast)]()
+<!--//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-shaikh&layout=donut&theme=highcontrast)]()-->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=z-shaikh&theme=highcontrast)](https://git.io/streak-stats&theme=highcontrast)
+[![GitHub Streak](https://streak-stats.demolab.com?user=z-shaikh&theme=highcontrast)]()
 
 ![Zuber's GitHub stats](https://github-readme-stats.vercel.app/api?username=z-shaikh&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)
 
