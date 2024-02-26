@@ -17,8 +17,9 @@ I would also love to volunteer my time to contributing to open-source projects! 
 I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [**an e-mail**](mailto:zuber1234@gmail.com) if that sounds like your cup of tea 🍵.
 
 
+
 ## Technologies I'm Learning :books:
-  <img align="right" alt="GIF" src="https://github.com/z-shaikh/z-shaikh/blob/main/code.gif?raw=true" width="460" height="400" />
+  <img align="right" alt="GIF" src="https://github.com/z-shaikh/z-shaikh/blob/main/code.gif?raw=true" width="440" height="400" />
 
 #### Tech:
 
@@ -31,7 +32,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ![Android](https://img.shields.io/badge/Xamarin-Android-%232c3e50?style=flat&logo=android)
 ![iOS](https://img.shields.io/badge/Xamarin-iOS-%232c3e50?logo=Apple)
   <div align="center">
-  <img src="https://github.com/z-shaikh/z-shaikh/blob/main/connected.gif" alt="Raghav Khullar" width="300" height="160" />
+  <img src="https://github.com/z-shaikh/z-shaikh/blob/main/connected.gif" alt="Raghav Khullar" width="300" height="150" />
   </div>
 
 #### Editors and Operating Systems:
