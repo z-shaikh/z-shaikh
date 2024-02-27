@@ -19,7 +19,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 
 ## Technologies I'm Learning :books:
-  <img align="right" alt="GIF" src="https://github.com/z-shaikh/z-shaikh/blob/main/code.gif?raw=true" width="440" height="400" />
+  <img align="right" alt="GIF" src="https://github.com/z-shaikh/z-shaikh/blob/main/code.gif?raw=true" width="440" height="390" />
 
 #### Tech:
 
@@ -28,7 +28,6 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ![MAUI](https://img.shields.io/badge/dotNet-MAUI-%232c3e50?logo=dotnet)
 ![dotNet](https://img.shields.io/badge/dotNet-C%23-%232c3e50?logo=dotnet)
 ![Java](https://img.shields.io/badge/Java-Android-%232c3e50?logo=Android)
-
 ![Android](https://img.shields.io/badge/Xamarin-Android-%232c3e50?style=flat&logo=android)
 ![iOS](https://img.shields.io/badge/Xamarin-iOS-%232c3e50?logo=Apple)
   <div align="center">
