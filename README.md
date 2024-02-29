@@ -19,7 +19,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 
 ## Technologies I'm Learning :books:
-  <img align="right" alt="GIF" src="https://github.com/z-shaikh/z-shaikh/blob/main/code.gif?raw=true" width="440" height="390" />
+  <img align="right" alt="GIF" src="https://github.com/z-shaikh/z-shaikh/blob/main/code.gif?raw=true" width="440" height="380" />
 
 #### Tech:
 
